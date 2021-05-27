@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.965 s <<< FAILURE! - in TestSuite
+Regression.Click_contactus_passData.EmailUs  Time elapsed: 8.146 s  <<< FAILURE!
+java.lang.AssertionError: 
+	at Regression.Click_contactus_passData.EmailUs(Click_contactus_passData.java:75)
+

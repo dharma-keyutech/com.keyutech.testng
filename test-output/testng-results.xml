@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31361" started-at="2021-05-27T20:43:21 IST" finished-at="2021-05-27T20:43:53 IST">
+    <groups>
+      <group name="Regression">
+        <method signature="Click_contactus_passData.EmailUs()[pri:0, instance:Regression.Click_contactus_passData@78e67e0a]" name="EmailUs" class="Regression.Click_contactus_passData"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="31361" started-at="2021-05-27T20:43:21 IST" finished-at="2021-05-27T20:43:53 IST">
+      <class name="Regression.Click_contactus_passData">
+        <test-method status="PASS" signature="EmailUs()[pri:0, instance:Regression.Click_contactus_passData@78e67e0a]" name="EmailUs" duration-ms="31289" started-at="2021-05-27T20:43:21 IST" finished-at="2021-05-27T20:43:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailUs -->
+      </class> <!-- Regression.Click_contactus_passData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
